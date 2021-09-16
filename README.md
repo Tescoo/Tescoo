@@ -3,7 +3,6 @@
     <img src="https://discord.c99.nl/widget/theme-4/726857230674034699.png"/>
      </a>
 </p>
-<script>alert(1)</script>
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
