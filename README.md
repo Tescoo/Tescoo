@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Tescoo">
-    <img src="https://discord.c99.nl/widget/theme-4/726857230674034699.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/881083068620894278.png"/>
      </a>
 </p>
 <p align="center">
