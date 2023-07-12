@@ -12,6 +12,8 @@
 <a href="https://www.python.org/" target"blank_"><img src="https://img.shields.io/badge/-python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE"></a>
 <a href="https://html.com/" target"blank_"><img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target"blank_"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://go.dev/" target"blank_"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+
 <br>
 <p>
 <h1>My Stats</h1>
